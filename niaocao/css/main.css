@@ -122,3 +122,20 @@ body{
     background-color: currentColor;
 }
 
+.swiper-wrapper{
+
+}
+.swiper{
+    width:1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+.swiper-container{
+    height:650px;
+}
+img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
